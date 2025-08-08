@@ -1,3 +1,6 @@
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/214db2c7-2340-4423-8480-7eee956cabf7" />
+
+
 # Perfil GitHub via AJAX
 
 Projeto simples que carrega e exibe dados de um perfil GitHub usando JavaScript, Fetch API e requisição AJAX.
