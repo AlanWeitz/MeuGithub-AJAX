@@ -24,8 +24,4 @@ Projeto simples que carrega e exibe dados de um perfil GitHub usando JavaScript,
 3. O perfil será carregado automaticamente via AJAX.
 4. Para mudar o usuário, altere a variável `username` no arquivo `main.js`.
 
-## Branch específica
-
-Este projeto está na branch `exercicio_ajax` conforme solicitado.
-
 ---
